@@ -2,7 +2,8 @@
 CSS + Bootstrap
 
 When I open my index.html from VSC in Chrome the list bullet for GitHub looks correct but when I view on my repo it moved to the right
-which I can't figure out why. All the other list items turnd out correct. ****edit: I looked at it again and the bullet is correct on a large screen but moves to the right when I shrink the screen
+which I can't figure out why. All the other list items turnd out correct. 
+
 
 I don't have projects to display yet so I used my picture as a placeholder on the portfolio page. When I originally 
 made my grid and placed the pcitures inside of them I had a massive white space below that was driving me crazy. I originally
