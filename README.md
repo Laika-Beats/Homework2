@@ -1,6 +1,9 @@
 # Homework2
 CSS + Bootstrap
 
+When I open my index.html from VSC in Chrome the list bullet for GitHub looks correct but when I view on my repo it moved to the right
+which I can't figure out why. All the other list items turnd out correct.
+
 I don't have projects to display yet so I used my picture as a placeholder on the portfoli page. When I originally 
 made my grid and placed the pcitures inside of them I had a massive white space below that was driving me crazy. I originally
 had the width="auto" and height="x%" when I flipped them so that the height="auto" it got rid of the white space underneath and fit to the page.
