@@ -2,7 +2,7 @@
 CSS + Bootstrap
 
 When I open my index.html from VSC in Chrome the list bullet for GitHub looks correct but when I view on my repo it moved to the right
-which I can't figure out why. All the other list items turnd out correct. 
+which I can't figure out why. All the other list items turnd out correct. *****edit: this error only happens when I view it in Safari, it looks correct in Chrome.
 
 
 I don't have projects to display yet so I used my picture as a placeholder on the portfolio page. When I originally 
